@@ -126,7 +126,31 @@
         "Tutor courses from Math 100-253 (Survey of Mathematics, Precalculus, Trig, Applied Calculus, Calculus for Business and Social Sciences, and Calculus 1-4",
         "Grade students' homework assignments and assist professors with grading exams and inputting grades"
       ]
-    } 
+    },
+    {
+      "company": "University of Hawaii at Manoa, Mathematics Department",
+      "position": "Mathematics Tutor",
+      "website": "",
+      "startDate": 2015-01-12",
+      "endDate": "2016-08-22",
+      "summary": "Math 134 Pre-Calculus Tutor",
+      "highlights": [
+        "Attend  two meeting a week each for 90 minutes",
+        "Help the instructor and students during class times"
+      ]
+    },
+    {
+      "company": "TS Restaurants Management, Inc. - Kimo's Maui Restaurant",
+      "position": "Hostess/Logo",
+      "website": "",
+      "startDate": 2013-05-13",
+      "endDate": "2016-08-15",
+      "summary": "",
+      "highlights": [
+        "Manage the seating area, take reservations over the phone and in person, clearing and setting up tables, resolve conflicts  as they arise in the work environment and put customers at ease",
+        "Take daily inventory, assist customers with selection by offering suggestions and opinions, advise customers by providing information on products, document sales"
+      ]
+    }
   ],
   "volunteer": [
     {
