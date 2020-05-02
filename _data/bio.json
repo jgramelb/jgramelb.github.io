@@ -53,6 +53,7 @@
         "NodeJs",
         "Python",
         "Flask",
+        "C++"
       ]
     },
     {
@@ -95,8 +96,8 @@
       "endDate": "Present",
       "summary": "SaaS Implementation/Support,
       "highlights": [
-        "Implement various software features and support RENTCafe/RENTCafe CRM clients in regards to resident services, marketing, and online leasing, providing solutions to help clients meet their overall goals based on their companies’ business best practices", "Use of SQL to create script files and troubleshoot technical issues with script files and stored procedures", "Use and knowledge of programming markup languages and other data formats to help troubleshoot technical and data feed issues",
-      ]
+        "Implement various software features and support RENTCafe/RENTCafe CRM clients in regards to resident services, marketing, and online leasing, providing solutions to help clients meet their overall goals based on their companies’ business best practices", "Use of SQL to create script files and troubleshoot technical issues with script files and stored procedures", "Use and knowledge of programming markup languages and other data formats to help troubleshoot technical and data feed issues"]
+       ]
     },
     {
       "company": "Brown & Brown Pacific Insurance",
