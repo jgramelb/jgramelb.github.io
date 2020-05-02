@@ -6,7 +6,7 @@
     "email": "jgramelb@hawaii.edu",
     "phone": "",
     "website": "https://jgramelb.github.io",
-    "summary": "Aloha! I am a full-time Associate Account Manager at an insurance agency on Maui. I'd like to someday go back to school for Computer Science and marry my passion in insurance and love for technology. I obtained my B.A. in both Mathematics and German from University of Hawaii at Manoa in May 2017. <br> Disclaimer: This page is still under construction!</br> ",
+    "summary": "<br> Disclaimer: This page is still under construction!</br> ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,16 +34,6 @@
   },
   "interests": [
     {
-      "name": "Big data",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Insurance",
-      "keywords": [
-      ]
-    },    
-    {
       "name": "Software Design",
       "keywords": [
       ]
@@ -59,12 +49,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "CSS",
-        "HTML",
-        "Javascript",
-        "Matlab",
-        "Python"
+        "HTML/CSS/JavaScript",
+        "NodeJs",
+        "Python",
+        "Flask",
       ]
     },
     {
@@ -72,12 +60,21 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Git/GitHub",
         "Microsoft Office"
       ]
     }
   ],
   "education": [
+    {
+      "institution": "Oregon State University",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2018",
+      "endDate": "Present",
+      "gpa": "4.0",
+      "courses": ["Introduction to Computer Science 1&2 (C++)", "Web Development", "Introduction to Databases", "Discrete Mathematics"
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Mathematics and German (Spring, 2017)",
@@ -85,21 +82,31 @@
       "startDate": "2013-Aug",
       "endDate": "2017-May",
       "gpa": "3.69",
-      "courses": ["Introduction to Programming (Free Version of Matlab 'Scilab' and Fortran)", "Introduction to Linear Algebra", "Introduction to Advanced Mathematics", "Introduction to Real Analysis", "Foundations of Euclidean Geometry", "Elementary Probability Theory", "Complex Analysis", "Probability", "Statistical Inference", "Mathematics Senior Seminar"
+      "courses": ["Introduction to Programming", "Introduction to Linear Algebra", "Introduction to Advanced Mathematics", "Introduction to Real Analysis", "Foundations of Euclidean Geometry", "Elementary Probability Theory", "Complex Analysis", "Probability", "Statistical Inference",
       ]
     }
   ],
   "work": [
     {
-      "company": "Servco Pacific Insurance",
-      "position": "Associate Account Manager",
+      "company": "Yardi Systems, Inc.",
+      "position": "Technical Associate Account Manager",
       "website": "",
       "startDate": "2017-06-12",
       "endDate": "Present",
+      "summary": "SaaS Implementation/Support,
+      "highlights": [
+        "Implement various software features and support RENTCafe/RENTCafe CRM clients in regards to resident services, marketing, and online leasing, providing solutions to help clients meet their overall goals based on their companies’ business best practices", "Use of SQL to create script files and troubleshoot technical issues with script files and stored procedures", "Use and knowledge of programming markup languages and other data formats to help troubleshoot technical and data feed issues",
+      ]
+    },
+    {
+      "company": "Brown & Brown Pacific Insurance",
+      "position": "Associate Account Manager",
+      "website": "",
+      "startDate": "2017-06",
+      "endDate": "2018-12",
       "summary": "Commercial lines",
       "highlights": [
         "Provide assistance and support to Account Managers in maintaining, expanding, and servicing commercial accounts",
-        "HI Resident Producer License #457897"
       ]
     },
     {
